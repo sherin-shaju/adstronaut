@@ -776,6 +776,10 @@ p.para-w3pvt {
     background: #f7f7f7;
 }
 
+.title-padding{
+    padding-right: 0px;
+    align-items: end;
+}
 
 p.sub-tittle {
     font-size: 1.1em;
